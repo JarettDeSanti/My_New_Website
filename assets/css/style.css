@@ -1,3 +1,79 @@
 body {
-  background-color: aqua;
+  margin: auto;
+}
+
+header {
+  background-color: rgb(40, 109, 86);
+  line-height: 50px;
+  border-bottom: 8px rgb(214, 183, 166) solid;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 28px;
+  color: rgb(80, 65, 65);
+  line-height: 10px;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: rgb(80, 65, 65);
+}
+
+nav {
+  text-align: right;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: rgb(80, 65, 65);
+}
+
+img{
+  width: 275px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-right: 30px;
+}
+
+form {
+  font-family: sans-serif;
+  color: rgb(80, 65, 65);
+  line-height: 25px;
+}
+
+button {
+  width: 85px;
+  height: 30px;
+  font-family: sans-serif;
+  font-size: 10px;
+  background-color: rgb(80, 65, 65);
+  color: white;
+}
+
+main {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(40, 109, 86);
+  border-bottom: 8px rgb(80, 65, 65) solid;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+  line-height: 40px;
+}
+
+.contact {
+  background-color: rgb(235, 209, 195);
+  line-height: 35px;
+  border-bottom: 20px rgb(235, 209, 195) solid;
+  border-top: 2px rgb(182, 138, 138) solid;
 }
